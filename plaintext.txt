@@ -1,0 +1,13 @@
+
+#### 2. CHANGELOG.md
+```markdown
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [v1.0.0-sprint] - 2026-09-26
+### Added
+- Project base configuration files
+- README for clean checkout instructions
+- .env.example for environment variables
+- .gitignore file
+- GitHub Actions CI workflow file
